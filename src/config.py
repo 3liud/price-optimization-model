@@ -1,4 +1,3 @@
-# src/config.py
 from pathlib import Path
 
 # ---- Paths ----
