@@ -1,0 +1,8 @@
+{
+  "holdout_days": 48,
+  "rows": 60879,
+  "baseline_profit_total": 583080.9730185957,
+  "recommended_profit_total": 9378791.092194332,
+  "profit_uplift": 8795710.119175736,
+  "uplift_pct_vs_baseline": 15.08488619280537
+}
